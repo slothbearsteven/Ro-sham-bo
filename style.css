@@ -1,0 +1,13 @@
+.textuals{
+  color: white;
+  text-shadow: 0px 2px 5px black, 0px 2px 5px black;
+  font-style: oblique;
+  font-weight: inherit;
+  font-size: xx-large;
+}
+
+.background{
+  background-image: url(https://twistedsifter.files.wordpress.com/2013/05/animated-gifs-of-fighting-game-backgrounds-17.gif?w=800&h=300);
+background-size: cover;
+  background-repeat: no-repeat
+}
